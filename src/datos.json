@@ -1,0 +1,84 @@
+{
+  "header": {
+    "name": "My Company",
+    "link": [
+      {
+        "text": "Blog",
+        "url": "https://blog.es"
+      },
+      {
+        "text": "Youtube",
+        "url": "https://yotube.es"
+      }
+    ]
+  },
+
+  "footer": [
+    {
+      "titulo": "Social",
+      "links": [
+        {
+          "titulo": "Youtube",
+          "url": "https//......"
+        },
+        {
+          "titulo": "Twitter",
+          "url": "https//......"
+        },
+        {
+          "titulo": "Instagram",
+          "url": "https//......"
+        },
+        {
+          "titulo": "Facebook",
+          "url": "https//......"
+        }
+      ]
+    }
+  ],
+  "precios": [
+    {
+      "titulo": "free",
+      "precio": "$0",
+      "por": "month",
+      "textButton": "Sign up for free",
+      "features": ["10 users included", "2GB ", "e-mail", "Help Center crypto"]
+    },
+    {
+      "titulo": "pro",
+      "precio": "$50",
+      "por": "month",
+      "textButton": "Sign up for free",
+      "features": ["50 users included", "8GB ", "e-mail", "Help Center crypto"]
+    },
+    {
+      "titulo": "Premium",
+      "precio": "$100",
+      "por": "month",
+      "textButton": "Sign up for free",
+      "features": [
+        "100 users included",
+        "16GB ",
+        "e-mail",
+        "Help Center crypto"
+      ]
+    }
+  ],
+  "carousel": [
+    {
+      "texto": "New service in the world",
+      "url": "/IMG_20180808_204857.jpg",
+      "alt": "texto alternativo"
+    },
+    {
+      "texto": "We offer six months free",
+      "url": "/IMG_20200721_160313.jpg",
+      "alt": "texto alternativo"
+    },
+    {
+      "texto": "New features",
+      "url": "/king daki gold.jpg",
+      "alt": "texto alternativo"
+    }
+  ]
+}
